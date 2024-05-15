@@ -47,9 +47,9 @@ class _VoiceTranslatorState extends State<VoiceTranslator> {
     return AvatarGlow(
         glowColor: Theme.of(context).primaryColor,
         animate: _isListening,
-        endRadius: 80,
+        // endRadius: 80,
         duration: const Duration(milliseconds: 2000),
-        repeatPauseDuration: const Duration(milliseconds: 100),repeat: true,
+        // repeatPauseDuration: const Duration(milliseconds: 100),repeat: true,
         child: FloatingActionButton(
           onPressed: () {
             onListen();

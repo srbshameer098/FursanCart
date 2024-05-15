@@ -87,9 +87,9 @@ class _SeeAllBrandState extends State<SeeAllBrand> {
           animate: animateButton,
           glowColor: Colors.red,
           duration: const Duration(milliseconds: 2000),
-          repeatPauseDuration: const Duration(milliseconds: 100),
+          // repeatPauseDuration: const Duration(milliseconds: 100),
           repeat: true,
-          endRadius:80,
+          // endRadius:80,
           child: FloatingActionButton(backgroundColor: Colors.red,
             onPressed:
             _speechToText.isNotListening ? _startListening : _stopListening,
