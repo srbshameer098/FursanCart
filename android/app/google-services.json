@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "102070119333",
+    "project_id": "fursancart-24381",
+    "storage_bucket": "fursancart-24381.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102070119333:android:3796fa319949f850b1564c",
+        "android_client_info": {
+          "package_name": "com.example.fursan_cart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102070119333-kl9nbkvdlan4mbiqlubt5nmakhaiehe5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF-OI_luvqfQ_dQZ-pt4SM18vPSl8HNHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102070119333-kl9nbkvdlan4mbiqlubt5nmakhaiehe5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
